@@ -1,0 +1,9 @@
+peliculas\negocio\CatalogoPeliculas.class
+peliculas\excepciones\EscrituraDatosEx.class
+peliculas\negocio\CPJLaboratorioFinal.class
+peliculas\domain\Pelicula.class
+peliculas\negocio\CatalogoPeliculasImpl.class
+peliculas\excepciones\AccesoDatosEx.class
+peliculas\datos\AccesoDatos.class
+peliculas\datos\AccesoDatosImpl.class
+peliculas\excepciones\LecturaDatosEx.class
